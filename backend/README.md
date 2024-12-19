@@ -8,10 +8,10 @@ The backend is divided in several layers around a Kafka broker and can be enhanc
 ---
 ## Modules
 
-This project was designed to demonstrate:
+The backend is divided in the modules:
 
-* [Infra](infra)
-* TODO add others
+* [firebase-connector](firebase-connector)
+* [firebase-data-provider](firebase-data-provider)
 
 ---
 
