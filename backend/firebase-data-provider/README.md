@@ -1,30 +1,18 @@
-# Matrix View Documentation
+# Matrix View Microservices - Firebase Data Provider
 
 
-> Proof of concept of an architecture to process any data and generate reports and drafts completely reactive and event oriented
+> TODO
 
-The architecture takes advantage of the most robust and newest tools to maintain and scale microservices and resources.
-We can deploy Matrix View on promise using a kubernetes environment or any cloud service available.
+TODO
+
 
 ---
-## Author
 
-**Francisco Oliveira**
-* *My professional profile on* [LinkedIn][linkedin-url]
+## Documentation
 
-## Modules
+### Overview
 
-This project was designed to demonstrate:
-
-* [Infra](infra)
-* [Backend](backend)
-* [Frontend](frontend)
-
-
-## Installation
-
-Follow the [Infra](infra) tutorial to quickstart!
-
+![firebase-data-provider.png](../../drawio/images/firebase-data-provider.png)![Matrix-view-backend.drawio.png](../drawio/images/Matrix-view-backend.drawio.png)
 
 ---
 

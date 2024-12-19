@@ -1,30 +1,25 @@
 # Matrix View Documentation
 
 
-> Proof of concept of an architecture to process any data and generate reports and drafts completely reactive and event oriented
+> The Matrix View backend is responsible to listen firebase changes, provide information on the Kafka broker and work with this data
 
-The architecture takes advantage of the most robust and newest tools to maintain and scale microservices and resources.
-We can deploy Matrix View on promise using a kubernetes environment or any cloud service available.
+The backend is divided in several layers around a Kafka broker and can be enhanced with any resources of kubernetes
 
 ---
-## Author
-
-**Francisco Oliveira**
-* *My professional profile on* [LinkedIn][linkedin-url]
-
 ## Modules
 
 This project was designed to demonstrate:
 
 * [Infra](infra)
-* [Backend](backend)
-* [Frontend](frontend)
+* TODO add others
 
+---
 
-## Installation
+## Documentation
 
-Follow the [Infra](infra) tutorial to quickstart!
+### Overview
 
+![Matrix-view-backend.drawio.png](../drawio/images/Matrix-view-backend.drawio.png)
 
 ---
 
