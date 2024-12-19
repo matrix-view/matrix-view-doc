@@ -14,7 +14,7 @@ We can deploy Matrix View on promise using a kubernetes environment or any cloud
 
 ## Modules
 
-This project was designed to demonstrate:
+This project is divided in the following modules:
 
 * [Infra](infra)
 * [Backend](backend)
