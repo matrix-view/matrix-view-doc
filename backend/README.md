@@ -1,4 +1,4 @@
-# Matrix View Documentation
+# Matrix View Backend
 
 
 > The Matrix View backend is responsible to listen firebase changes, provide information on the Kafka broker and work with this data
